@@ -1400,12 +1400,12 @@ _MagnemiteDexEntry::
 
 _CharmanderDexEntry::
 	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	next "scrubbing butts. "
+	next "Just like Ethan  "
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "Barker.          "
+	next "AAAAAAAAAAAAAAAA"
+	next "AAAAAAAAAAAAAAA"
 	dex
 
 _SquirtleDexEntry::
